@@ -21,3 +21,10 @@
 | white.txt       | first                         |
 | incomplete.txt  | incomplete game               |
 | illegal_move.txt| line 15 illegal move: 1,0,0,5 |
+
+
+###
+Result of running incomplete.txt
+###
+![alt text](https://github.com/d-goro/checkers/blob/master/incomplete_screenshot.jpg "screenshhot")
+
